@@ -25,7 +25,7 @@ Modern, hızlı ve kullanıcı odaklı bir alışveriş deneyimi sunan, premium 
 
 | Ana Sayfa | Ürün Detay | Arama & Filtreleme | Sepet | Ödeme |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/screenshots/1.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/screenshots/2.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/screenshots/3.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/screenshots/4.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/screenshots/5.png" width="200"> |
+| <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20011030.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20011110.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20011142.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20011210.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20011245.png" width="200"> |
 
 > *Not: Aldığınız ekran görüntülerini GitHub'daki `screenshots` klasörüne yükledikten sonra yukarıdaki linkleri güncelleyebilirsiniz.*
 
