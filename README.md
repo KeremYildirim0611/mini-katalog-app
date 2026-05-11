@@ -25,7 +25,7 @@ Modern, hızlı ve kullanıcı odaklı bir alışveriş deneyimi sunan, premium 
 
 | Ana Sayfa | Ürün Detay | Arama & Filtreleme | Sepet | Ödeme |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Ana Sayfa](https://github.com/KeremYildirim0611/mini-katalog-app/edit/main/README.md/200x400?text=Ana+Sayfa) | ![Detay](https://github.com/KeremYildirim0611/mini-katalog-app/edit/main/README.md/200x400?text=Urun+Detay) | ![Arama](https://github.com/KeremYildirim0611/mini-katalog-app/edit/main/README.md/200x400?text=Filtreleme) | ![Sepet](https://github.com/KeremYildirim0611/mini-katalog-app/edit/main/README.md/200x400?text=Sepet) | ![Odeme]([https://via.placeholder.com](https://github.com/KeremYildirim0611/mini-katalog-app/edit/main/README.md)/200x400?text=Odeme) |
+| ![Ana Sayfa](https://github.com/KeremYildirim0611/mini-katalog-app/blob/main/Screenshots/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202026-05-09%20011030.png/200x400?text=Ana+Sayfa) | ![Detay](https://github.com/KeremYildirim0611/mini-katalog-app/edit/main/README.md/200x400?text=Urun+Detay) | ![Arama](https://github.com/KeremYildirim0611/mini-katalog-app/edit/main/README.md/200x400?text=Filtreleme) | ![Sepet](https://github.com/KeremYildirim0611/mini-katalog-app/edit/main/README.md/200x400?text=Sepet) | ![Odeme]([https://via.placeholder.com](https://github.com/KeremYildirim0611/mini-katalog-app/edit/main/README.md)/200x400?text=Odeme) |
 
 > *Not: Aldığınız ekran görüntülerini GitHub'daki `screenshots` klasörüne yükledikten sonra yukarıdaki linkleri güncelleyebilirsiniz.*
 
