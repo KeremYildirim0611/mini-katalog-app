@@ -27,7 +27,6 @@ Modern, hızlı ve kullanıcı odaklı bir alışveriş deneyimi sunan, premium 
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20011030.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20012628.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20012403.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20013700.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20013723.png" width="200"> |
 
-> *Not: Aldığınız ekran görüntülerini GitHub'daki `screenshots` klasörüne yükledikten sonra yukarıdaki linkleri güncelleyebilirsiniz.*
 
 ## 🚀 Kurulum ve Çalıştırma
 
