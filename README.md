@@ -2,6 +2,12 @@
 
 Modern, hızlı ve kullanıcı odaklı bir alışveriş deneyimi sunan, premium teknoloji ürünlerinin sergilendiği bir mobil katalog uygulamasıdır. Bu proje, Flutter framework'ü kullanılarak temiz kod prensiplerine (Clean Code) uygun şekilde geliştirilmiştir.
 
+## ⚙️ Sistem Gereksinimleri & Sürüm Bilgisi
+
+* **Framework Sürümü:** Flutter 3.22.0
+* **Dart Sürümü:** Dart 3.4.0
+* **Platformlar:** Android (API 21+) / iOS (12.0+)
+
 ## ✨ Öne Çıkan Özellikler
 
 * **Dinamik Ürün Vitrini:** Apple ekosistemi, yazılım ekipmanları ve otomobil teknolojileri gibi farklı kategorilerde ürün listeleme.
@@ -27,9 +33,8 @@ Modern, hızlı ve kullanıcı odaklı bir alışveriş deneyimi sunan, premium 
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20011030.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20012628.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20012403.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20013700.png" width="200"> | <img src="https://raw.githubusercontent.com/KeremYildirim0611/mini-katalog-app/main/Screenshots/Ekran%20görüntüsü%202026-05-09%20013723.png" width="200"> |
 
-
 ## 🚀 Kurulum ve Çalıştırma
 
 1. Bu depoyu yerel makinenize klonlayın:
    ```bash
-   git clone [https://github.com/kullaniciadin/mini_katalog_app.git](https://github.com/kullaniciadin/mini_katalog_app.git)
+   git clone [https://github.com/KeremYildirim0611/mini-katalog-app.git](https://github.com/KeremYildirim0611/mini-katalog-app.git)
